@@ -1,0 +1,92 @@
+html{
+    height: 100%;
+    width:100%;
+    background-size: cover ;
+    background-image: url("Cafe.jpg"); 
+}
+.header{
+    width:100%;
+    height:80px;
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+.nav{
+    width: 800px;
+    height: 60px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    margin-top: 10px;
+    margin-left: 360px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+}
+.nav a{
+    margin:20px;
+    font-size: 20px;
+    margin-left: 85px;
+    text-decoration: none;
+    color: antiquewhite;
+}
+.mainbox{
+    border: 1px rgba(0, 0, 0, 0) solid;
+    height: 454px;
+    width: 952px;
+    margin-top: 40px;
+    margin-left: 285px;
+    display: flex;
+}
+.box1,.box2{
+    border: 1px rgba(0, 0, 0, 0) solid;
+    height: 432px;
+    width: 462px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.box1{
+    background-color: rgba(0, 0, 0, 0.321);
+}
+.box2{
+    display: flex;
+    flex-direction: column;
+}
+.detail{
+    border: 1px rgba(0, 0, 0, 0) solid;
+    height: 136px;
+    width: 450px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: rgba(0, 0, 0, 0.321);
+
+}
+.title{
+    border: 1px rgba(0, 0, 0, 0) solid;
+    text-align: left;
+    padding: 20px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 130px;
+    color: aliceblue;
+}
+.content{
+    border: 1px rgba(0, 0, 0, 0) solid;
+    padding: 20px;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: antiquewhite;
+}
+.head2{
+    border: 1px rgba(0, 0, 0, 0) solid;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:antiquewhite;
+}
+.content2{
+    border: 1px rgba(0, 0, 0, 0) solid;
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
