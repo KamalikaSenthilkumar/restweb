@@ -31,11 +31,8 @@ Publish the website in Localhost.
 
 restaurent.html
 ```
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="style.css" rel="stylesheet">
     <title>Home</title>
 </head>
@@ -139,11 +136,8 @@ html{
 ```
 aboutus.html
 ```
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="about.css">
     <title>About Us</title>
 </head>
@@ -241,11 +235,8 @@ html{
 ```
 menu.html
 ```
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="menu.css">
     <title>Menu</title>
 </head>
@@ -386,11 +377,8 @@ html{
 ```
 contact.html
 ```
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="contact.css">
     <title>Contact</title>
 </head>
