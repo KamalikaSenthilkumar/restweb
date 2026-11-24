@@ -53,8 +53,7 @@ restaurent.html
     </div>
     <div class="orderlink"><a href="menu.html">ORDER NOW</a></div>
 
-    <div class="footer">
-    </div>
+    <div class="footer">S Kamalika - 26011027</div>
 </body>
 </html>
 ```
@@ -125,13 +124,18 @@ html{
     color: antiquewhite;
 }
 .footer{
-    
-    width:100%;
-    height:80px;
-    border: 1px solid rgba(0, 0, 0, 0);
     position: fixed;
     bottom: 0;
-    left: 0;
+     left: 0;
+    height: 20px;
+    width:100%;
+    border: 1px solid rgba(0, 0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 5px;
+    text-align: center;
+    background-color: rgba(245, 245, 220, 0.493);
 }
 ```
 aboutus.html
@@ -161,8 +165,10 @@ aboutus.html
             <img src="RES.jpg" alt="">
         </div>
     </div>
+    <div class="footer">S Kamalika - 26011027</div>
 </body>
 </html>
+
 ```
 aboutus.css
 ```
@@ -232,6 +238,20 @@ html{
     height:432px;
     width: 462px;
 }
+.footer{
+    position: fixed;
+    bottom: 0;
+     left: 0;
+    height: 20px;
+    width:100%;
+    border: 1px solid rgba(0, 0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 5px;
+    text-align: center;
+    background-color: rgba(245, 245, 220, 0.493);
+}
 ```
 menu.html
 ```
@@ -296,6 +316,7 @@ menu.html
 </div>
 
   </div>
+  <div class="footer">S Kamalika - 26011027</div>
 </body>
 </html>
 ```
@@ -374,6 +395,20 @@ html{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
+.footer{
+    position: fixed;
+    bottom: 0;
+     left: 0;
+    height: 20px;
+    width:100%;
+    border: 1px solid rgba(0, 0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 5px;
+    text-align: center;
+    background-color: rgba(245, 245, 220, 0.493);
+}
 ```
 contact.html
 ```
@@ -410,6 +445,7 @@ contact.html
             </div>
         </div>
     </div>
+    <div class="footer">S Kamalika - 26011027</div>
 
 </body>
 </html>
@@ -507,6 +543,20 @@ html{
     font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: aliceblue;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+     left: 0;
+    height: 20px;
+    width:100%;
+    border: 1px solid rgba(0, 0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 5px;
+    text-align: center;
+    background-color: rgba(245, 245, 220, 0.493);
 }
 ```
 
