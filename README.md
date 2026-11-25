@@ -520,12 +520,12 @@ html{
 
 ## OUTPUT:
 Web Page:
-![alt text](image-5.png)
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (41).png
+c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (42).png
+c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (43).png
+c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (44).png
 Server Side:
-![alt text](image-3.png)
+c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (45).png
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
