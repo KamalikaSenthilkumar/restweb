@@ -31,6 +31,7 @@ Publish the website in Localhost.
 
 restaurent.html
 ```
+
 <html>
 <head>
     <link href="style.css" rel="stylesheet">
@@ -52,10 +53,10 @@ restaurent.html
         
     </div>
     <div class="orderlink"><a href="menu.html">ORDER NOW</a></div>
-
     <div class="footer">S Kamalika - 26011027</div>
 </body>
 </html>
+
 ```
 style.css
 ```
@@ -137,9 +138,11 @@ html{
     text-align: center;
     background-color: rgba(245, 245, 220, 0.493);
 }
+
 ```
 aboutus.html
 ```
+
 <html>
 <head>
     <link rel="stylesheet" href="about.css">
@@ -172,89 +175,40 @@ aboutus.html
 ```
 aboutus.css
 ```
-html{
-    width:100%;
-    height:100%;
-    background-image: url("Cafe.jpg"); 
-    background-size: cover ;
-}
-.header{
-    width:100%;
-    height:80px;
-    border: 1px solid rgba(0, 0, 0, 0);
-    
-}
-.nav{
-    width: 800px;
-    height: 60px;
-    border: 1px solid rgba(0, 0, 0, 0);
-    margin-top: 10px;
-    margin-left: 360px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    display: flex;
-}
-.nav a{
-    margin:20px;
-    font-size: 20px;
-    margin-left: 85px;
-    text-decoration: none;
-    color: antiquewhite;
 
-}
-.mainbox{
-    border: 1px rgba(0, 0, 0, 0) solid;
-    height: 454px;
-    width: 956px;
-    margin-top: 40px;
-    margin-left: 285px;
-    display: flex;
-    background-color: rgba(0, 0, 0, 0.321);
-}
-.box1,.box2{
-    border: 1px rgba(0, 0, 0, 0) solid;
-    height: 432px;
-    width: 462px;
-    margin-left: 10px;
-    margin-top: 10px;
-}
-.title{
-    border: 1px rgba(0, 0, 0, 0) solid;
-    text-align: left;
-    padding: 20px;
-    font-size: 45px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-top: 20px;
-    color: aliceblue;
-}
-.content{
-    border: 1px rgba(0, 0, 0, 0) solid;
-    padding: 20px;
-    margin-top: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-    color: antiquewhite;
-}
-.box2 img{
-    height:432px;
-    width: 462px;
-}
-.footer{
-    position: fixed;
-    bottom: 0;
-     left: 0;
-    height: 20px;
-    width:100%;
-    border: 1px solid rgba(0, 0, 0, 0);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    margin: 5px;
-    text-align: center;
-    background-color: rgba(245, 245, 220, 0.493);
-}
+<html>
+<head>
+    <link rel="stylesheet" href="about.css">
+    <title>About Us</title>
+</head>
+<body>
+     <div class="header">
+        <div class="nav">
+            <a href="restaurent.html">HOME</a> 
+            <a href="aboutus.html">ABOUT US</a> 
+            <a href="menu.html">MENU</a> 
+            <a href="contact.html">CONTACT</a> 
+        </div>
+    </div>
+    <div class="mainbox">
+        <div class="box1">
+            <div class="title">Our Story</div>
+            <div class="content">We believe great food brings people together. <br><br>
+                Every dish on our menu is prepared from scratch using time-honored recipes, fresh seasonal produce, and bold spices.<br><br>
+                Whether you're stopping by for a quick bite or celebrating a special evening, pull up a chair and make yourself at home.</div>
+        </div>
+        <div class="box2">
+            <img src="RES.jpg" alt="">
+        </div>
+    </div>
+    <div class="footer">S Kamalika - 26011027</div>
+</body>
+</html>
+
 ```
 menu.html
 ```
+
 <html>
 <head>
     <link rel="stylesheet" href="menu.css">
@@ -319,6 +273,7 @@ menu.html
   <div class="footer">S Kamalika - 26011027</div>
 </body>
 </html>
+
 ```
 menu.css
 ```
@@ -409,9 +364,11 @@ html{
     text-align: center;
     background-color: rgba(245, 245, 220, 0.493);
 }
+
 ```
 contact.html
 ```
+
 <html>
 <head>
     <link rel="stylesheet" href="contact.css">
@@ -428,7 +385,7 @@ contact.html
     <div class="mainbox">
         <div class="box1">
             <div class="title"><i><b>How Can We Help ?</b> </i></div>
-            <div class="content">Have a question about our menu, want to book a group table, or planning a special celebration?<br> Drop us a message or give us a ring—our team will get right back to you.</div>
+            <div class="content">Have a question about our menu, want to book a group table, or planning a special celebration?<br> Drop us a message or give us a ring our team will get right back to you.</div>
         </div>
         <div class="box2">
             <div class="detail">
@@ -558,16 +515,17 @@ html{
     text-align: center;
     background-color: rgba(245, 245, 220, 0.493);
 }
+
 ```
 
 ## OUTPUT:
 Web Page:
+![alt text](image-5.png)
+![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
 Server Side:
-![alt text](image.png)
+![alt text](image-3.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
